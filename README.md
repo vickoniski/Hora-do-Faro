@@ -1,2 +1,1 @@
-# Hora-do-Faro
-Trabalho do componente Mat2
+# AluraMidi
